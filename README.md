@@ -11,7 +11,7 @@ I have several projects posted from courses I am taking in my last year, includi
 
 ## How to reach me
 ericnea (at) gmail (dot) com   
-discord - 
+discord - eneal#3653
 
 <!---
 eric-neal/eric-neal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
