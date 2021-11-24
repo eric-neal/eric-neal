@@ -1,3 +1,5 @@
+ ![](https://github.com/eric-neal/eric-neal/blob/main/forcedirectedgraph.jpg)
+ 
  ## 👋 Hi, I’m Eric. 
  
 I am an undergrad at the University of Missouri - St. Louis majoring in Mathematics. 
