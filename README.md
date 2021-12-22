@@ -6,7 +6,7 @@ I am an undergrad at the University of Missouri - St. Louis majoring in Mathemat
 I tutor high school through early college mathematics and computer science. 
 
 Always offering collaboration on small projects or to give feedback.  
-I am ultimately interested in further education and research but am currently looking for full-time work in software engineering! 
+I am ultimately interested in the overlaps between mathematics and computer science, seeking further education but am currently looking for full-time work in software engineering! 
 
 ## What I'm working on 
 I have several projects posted from courses I have taken, including various algorithm analysis programs and a very simple neural network in an elective AI course. I also have been working on a sports parity website as an exploration of graph theory. 
