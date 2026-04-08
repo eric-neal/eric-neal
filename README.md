@@ -1,4 +1,4 @@
- ![](https://github.com/eric-neal/eric-neal/blob/main/forcedirectedgraph.jpg)
+ ![](https://github.com/eric-neal/eric-neal/blob/main/bridges_of_konigsberg.png)
  
  ## 👋 Hi, I’m Eric. 
 I'm a 2023 graduate of the UMSL mathematics department. You will find here some repos of my code from courses and some of my personal projects, one of which is a revamp of my final project from CS4300 FALL 2021. 
