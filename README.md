@@ -1,7 +1,7 @@
  ![](https://github.com/eric-neal/eric-neal/blob/main/bridges_of_konigsberg.png)
  
  ## 👋 Hi, I’m Eric. 
-I'm a 2023 graduate of the UMSL mathematics department. You will find here some repos of my code from courses and some of my personal projects, one of which is a revamp of my final project from CS4300 FALL 2021. 
+I'm a 2023 graduate of the UMSL mathematics department. I'm interested in data science, economics, graph theory, and machine learning. You will find here some repos of my code from courses and some of my personal projects, one of which is a revamp of my final project from CS4300 FALL 2021. 
 ## 💻 What I'm working on 
 [_Game Features & MLB Wins_](https://github.com/eric-neal/CS4300-AI/Game%20Features%20%26%20MLB%20Wins.md) uses a neural network to analyze over 2,400 MLB games, a project from Intro. to AI that I took in Fall 2021 with Dr. Adhikari. _Circle of Parity_ implements a graph traversal algorithm in determining the [circle of parity](https://www.youtube.com/shorts/D3edSwVg0MY?feature=share) of individual NFL seasons. 
 ## ✉️ How to reach me
